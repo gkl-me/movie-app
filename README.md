@@ -4,7 +4,7 @@ Real movie streaming application with actual movies with full length, This app  
   THIS MOVIE API IS NOT LEGAL SO I AM NOT INCLUDING API IN THIS
 ``
 
-# Set up repo localy
+# Set up repo locally
 
 ```
 git clone <repolink>
