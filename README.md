@@ -4,10 +4,10 @@ Real movie streaming application with actual movies with full length, This app  
   THIS MOVIE API IS NOT LEGAL SO I AM NOT INCLUDING API IN THIS
 ``
 
-#Set up repo localy
+# Set up repo localy
 
 ```
-git clone
+git clone <repolink>
 ```
 
 ```
@@ -15,7 +15,7 @@ cd client
 npm i
 ```
 
-#Run the app locally
+# Run the app locally
 ```
 npm run dev
 ```
